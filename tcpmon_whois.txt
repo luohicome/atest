@@ -1,0 +1,75 @@
+# WHOIS检索设定文件
+# -------------------------------------------------------------
+# IP地址
+# -------------------------------------------------------------
+49.0.0.0-50.255.255.255    = whois.iana.org
+60.0.0.0-61.255.255.255    = whois.apnic.net
+62.0.0.0-62.255.255.255    = whois.apnic.net
+150.1.0.0-150.101.255.255  = whois.apnic.net
+163.62.0.0-163.117.255.255 = whois.ripe.net
+193.0.0.0-195.255.255.255  = whois.ripe.net
+200.0.0.0-201.255.255.255  = whois.lacnic.net
+202.0.0.0-203.255.255.255  = whois.apnic.net
+210.0.0.0-211.255.255.255  = whois.apnic.net
+212.0.0.0-213.255.255.255  = whois.ripe.net
+217.0.0.0-217.255.255.255  = whois.ripe.net
+218.0.0.0-220.255.255.255  = whois.apnic.net
+221.0.0.0-222.255.255.255  = whois.apnic.net
+0.0.0.0-255.255.255.255    = whois.jp
+0.0.0.0-255.255.255.255    = whois.apnic.net
+0.0.0.0-255.255.255.255    = whois.arin.net
+0.0.0.0-255.255.255.255    = whois.ripe.net
+0.0.0.0-255.255.255.255    = whois.internic.net
+# -------------------------------------------------------------
+# 最高级域名
+# -------------------------------------------------------------
+.jp     = whois.jp
+.com    = whois.internic.net
+.net    = whois.internic.net
+.edu    = whois.networksolutions.com
+.org    = whois.networksolutions.com
+.gov    = whois.nic.gov
+.mil    = whois.nic.mil
+.int    = whois.networksolutions.com
+.biz    = whois.networksolutions.com
+.info   = whois.networksolutions.com
+.name   = whois.networksolutions.com
+.pro    = whois.networksolutions.com
+.museum = whois.networksolutions.com
+.aero   = whois.networksolutions.com
+.coop   = whois.networksolutions.com
+.ac     = whois.nic.ac
+.ad     = whois.ripe.net
+.as     = whois.nic.as
+.at     = whois.ripe.net
+.au     = whois.ausregistry.net.au
+.br     = whois.nic.br
+.ca     = whois.cira.ca
+.cc     = whois.nic.cc
+.ch     = whois.nic.ch
+.ck     = whois.ck-nic.org.ck
+.cn     = whois.cnnic.net.cn
+.cx     = whois.nic.cx
+.cz     = whois.nic.cz
+.de     = whois.nic.de
+.fr     = whois.nic.fr
+.gs     = whois.adamsnames.tc
+.it     = whois.nic.it
+.kr     = whois.krnic.net
+.li     = whois.nic.li
+.ms     = whois.adamsnames.tc
+.mx     = whois.nic.mx
+.nl     = whois.nic.nl
+.nu     = whois.nic.nu
+.pt     = whois.nic.pt
+.ro     = whois.rotld.ro
+.ru     = whois.ripn.net
+.se     = whois.nic-se.se
+.sg     = whois.nic.net.sg
+.sh     = whois.nic.sh
+.st     = whois.nic.st
+.tc     = whois.adamsnames.tc
+.tf     = whois.adamsnames.tc
+.th     = whois.thnic.net
+.tw     = whois.twnic.net.tw
+.vg     = whois.adamsnames.tc
